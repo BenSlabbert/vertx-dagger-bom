@@ -7,6 +7,17 @@
   <version>${revision}</version>
   <packaging>pom</packaging>
 
+  <name>Vert.x Dagger BOM</name>
+  <description>Set of dependencies for vertx-dagger repos</description>
+
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub BenSlabbert Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/BenSlabbert/vertx-dagger-bom</url>
+    </repository>
+  </distributionManagement>
+
   <properties>
     <java.exec>java</java.exec>
     <revision>1.0.0-SNAPSHOT</revision>
@@ -330,14 +341,14 @@
   <repositories>
     <repository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/BenSlabbert/vertx-dagger-bom</url>
+      <url>https://maven.pkg.github.com/BenSlabbert/*</url>
     </repository>
   </repositories>
 
   <pluginRepositories>
     <pluginRepository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/BenSlabbert/vertx-dagger-bom</url>
+      <url>https://maven.pkg.github.com/BenSlabbert/*</url>
     </pluginRepository>
   </pluginRepositories>
 
