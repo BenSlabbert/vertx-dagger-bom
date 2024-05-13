@@ -330,14 +330,14 @@
   <repositories>
     <repository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/BenSlabbert/*</url>
+      <url>https://maven.pkg.github.com/BenSlabbert/vertx-dagger-bom</url>
     </repository>
   </repositories>
 
   <pluginRepositories>
     <pluginRepository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/BenSlabbert/*</url>
+      <url>https://maven.pkg.github.com/BenSlabbert/vertx-dagger-bom</url>
     </pluginRepository>
   </pluginRepositories>
 
