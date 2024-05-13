@@ -14,6 +14,10 @@ compile: fmt
 test: fmt
 	${M} test
 
+.PHONY: deploy
+deploy: fmt
+	${M} deploy
+
 .PHONY: package
 package: fmt
 	${M} package
