@@ -1,14 +1,9 @@
 ---
 version: 2
 registries:
-  vertx-dagger-bom:
+  github:
     type: "maven-repository"
-    url: "https://maven.pkg.github.com/BenSlabbert/vertx-dagger-bom"
-    username: "BenSlabbert"
-    password: "${{ secrets.GH_TOKEN }}"
-  git-version-extension:
-    type: "maven-repository"
-    url: "https://maven.pkg.github.com/BenSlabbert/git-version-extension"
+    url: "https://maven.pkg.github.com/BenSlabbert/*"
     username: "BenSlabbert"
     password: "${{ secrets.GH_TOKEN }}"
 updates:
@@ -18,8 +13,7 @@ updates:
     interval: "daily"
   open-pull-requests-limit: 10
   registries:
-  - "vertx-dagger-bom"
-  - "git-version-extension"
+  - "github"
   labels:
   - "dependencies"
 - package-ecosystem: "github-actions"
