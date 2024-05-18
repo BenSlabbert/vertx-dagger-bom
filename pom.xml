@@ -56,7 +56,6 @@
     <guava.version>33.2.0-jre</guava.version>
     <snakeyaml.version>2.2</snakeyaml.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <txmanager.version>1.0.3</txmanager.version>
 
     <!--plugins-->
     <maven.version>3.9.6</maven.version>
@@ -93,11 +92,6 @@
         <version>${vertx.version}</version>
         <type>pom</type>
         <scope>import</scope>
-      </dependency>
-      <dependency>
-        <groupId>github.benslabbert.txmanager</groupId>
-        <artifactId>annotation</artifactId>
-        <version>${txmanager.version}</version>
       </dependency>
       <dependency>
         <groupId>com.google.auto.service</groupId>
@@ -212,11 +206,6 @@
         <artifactId>picocli</artifactId>
         <version>${picocli.version}</version>
       </dependency>
-      <dependency>
-        <groupId>github.benslabbert.txmanager</groupId>
-        <artifactId>plugin</artifactId>
-        <version>${txmanager.version}</version>
-      </dependency>
       <!--no good-->
       <dependency>
         <groupId>org.testcontainers</groupId>
@@ -244,11 +233,6 @@
             <artifactId>hamcrest-core</artifactId>
           </exclusion>
         </exclusions>
-      </dependency>
-      <dependency>
-        <groupId>github.benslabbert.txmanager</groupId>
-        <artifactId>txmanager</artifactId>
-        <version>${txmanager.version}</version>
       </dependency>
       <dependency>
         <groupId>io.vertx</groupId>
