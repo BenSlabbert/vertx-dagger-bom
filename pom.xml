@@ -39,7 +39,6 @@
     <dagger.version>2.51.1</dagger.version>
     <errorprone.version>2.27.1</errorprone.version>
     <commons-lang3.version>3.14.0</commons-lang3.version>
-    <flyway.version>10.13.0</flyway.version>
     <postgresql.version>42.7.3</postgresql.version>
     <jooq.version>3.19.8</jooq.version>
     <scram.version>2.1</scram.version>
@@ -133,11 +132,6 @@
         <groupId>com.google.errorprone</groupId>
         <artifactId>error_prone_core</artifactId>
         <version>${errorprone.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>org.flywaydb</groupId>
-        <artifactId>flyway-core</artifactId>
-        <version>${flyway.version}</version>
       </dependency>
       <dependency>
         <groupId>com.google.guava</groupId>
