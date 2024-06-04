@@ -55,7 +55,7 @@
     <guava.version>33.2.1-jre</guava.version>
     <snakeyaml.version>2.2</snakeyaml.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>10.13.0</flyway.version>
+    <flyway.version>10.14.0</flyway.version>
 
     <!--plugins-->
     <maven.version>3.9.6</maven.version>
