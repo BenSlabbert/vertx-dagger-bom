@@ -57,6 +57,7 @@
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
     <flyway.version>10.15.0</flyway.version>
     <playwright.version>1.44.0</playwright.version>
+    <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
 
     <!--plugins-->
     <maven.version>3.9.6</maven.version>
@@ -154,6 +155,11 @@
         <groupId>com.hazelcast</groupId>
         <artifactId>hazelcast</artifactId>
         <version>${hazelcast.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.hibernate.validator</groupId>
+        <artifactId>hibernate-validator</artifactId>
+        <version>${hibernate-validator.version}</version>
       </dependency>
       <dependency>
         <groupId>com.zaxxer</groupId>
