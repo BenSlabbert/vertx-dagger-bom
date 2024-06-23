@@ -59,6 +59,7 @@
     <playwright.version>1.44.0</playwright.version>
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.0</jakarta.validation-api.version>
+    <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
     <expressly.version>5.0.0</expressly.version>
 
     <!--plugins-->
@@ -172,6 +173,11 @@
         <groupId>com.zaxxer</groupId>
         <artifactId>HikariCP</artifactId>
         <version>${hikari-cp.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>jakarta.annotation</groupId>
+        <artifactId>jakarta.annotation-api</artifactId>
+        <version>${jakarta.annotation-api.version</version>
       </dependency>
       <dependency>
         <groupId>jakarta.validation</groupId>
