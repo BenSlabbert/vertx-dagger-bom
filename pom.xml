@@ -33,7 +33,7 @@
     <lombok.version>1.18.34</lombok.version>
     <mockito.version>5.12.0</mockito.version>
     <picocli.version>4.7.6</picocli.version>
-    <rest-assured.version>5.4.0</rest-assured.version>
+    <rest-assured.version>5.5.0</rest-assured.version>
     <commons-codec.version>1.17.0</commons-codec.version>
     <testcontainers.version>1.19.8</testcontainers.version>
     <dagger.version>2.51.1</dagger.version>
@@ -86,7 +86,7 @@
     <flatten-maven-plugin.version>1.6.0</flatten-maven-plugin.version>
     <spotless.version>2.43.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.14.17</byte-buddy.version>
+    <byte-buddy.version>1.14.18</byte-buddy.version>
   </properties>
 
   <dependencyManagement>
