@@ -63,7 +63,6 @@
     <expressly.version>5.0.0</expressly.version>
 
     <!--plugins-->
-    <maven.version>3.9.6</maven.version>
     <vertx-maven-plugin.version>1.0.29</vertx-maven-plugin.version>
     <maven-plugin-plugin.version>3.13.0</maven-plugin-plugin.version>
     <maven-site-plugin.version>3.12.1</maven-site-plugin.version>
