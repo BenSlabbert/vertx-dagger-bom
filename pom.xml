@@ -29,12 +29,12 @@
     <!--deps-->
     <vertx.version>4.5.8</vertx.version>
     <junit-jupiter.version>5.10.3</junit-jupiter.version>
-    <assertj-core.version>3.26.0</assertj-core.version>
+    <assertj-core.version>3.26.3</assertj-core.version>
     <lombok.version>1.18.34</lombok.version>
     <mockito.version>5.12.0</mockito.version>
     <picocli.version>4.7.6</picocli.version>
-    <rest-assured.version>5.4.0</rest-assured.version>
-    <commons-codec.version>1.17.0</commons-codec.version>
+    <rest-assured.version>5.5.0</rest-assured.version>
+    <commons-codec.version>1.17.1</commons-codec.version>
     <testcontainers.version>1.19.8</testcontainers.version>
     <dagger.version>2.51.1</dagger.version>
     <errorprone.version>2.28.0</errorprone.version>
@@ -67,8 +67,8 @@
     <maven-plugin-plugin.version>3.13.0</maven-plugin-plugin.version>
     <maven-site-plugin.version>3.12.1</maven-site-plugin.version>
     <exec-maven-plugin.version>3.3.0</exec-maven-plugin.version>
-    <maven-surefire-plugin.version>3.3.0</maven-surefire-plugin.version>
-    <maven-failsafe-plugin.version>3.3.0</maven-failsafe-plugin.version>
+    <maven-surefire-plugin.version>3.3.1</maven-surefire-plugin.version>
+    <maven-failsafe-plugin.version>3.3.1</maven-failsafe-plugin.version>
     <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
     <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
     <maven-install-plugin.version>3.1.2</maven-install-plugin.version>
@@ -79,13 +79,13 @@
     <maven-deploy-plugin.version>3.1.2</maven-deploy-plugin.version>
     <maven-javadoc-plugin.version>3.7.0</maven-javadoc-plugin.version>
     <maven-source-plugin.version>3.3.1</maven-source-plugin.version>
-    <maven-release-plugin.version>3.1.0</maven-release-plugin.version>
+    <maven-release-plugin.version>3.1.1</maven-release-plugin.version>
     <maven-enforcer-plugin.version>3.5.0</maven-enforcer-plugin.version>
-    <maven-surefire-report-plugin.version>3.3.0</maven-surefire-report-plugin.version>
+    <maven-surefire-report-plugin.version>3.3.1</maven-surefire-report-plugin.version>
     <flatten-maven-plugin.version>1.6.0</flatten-maven-plugin.version>
     <spotless.version>2.43.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.14.17</byte-buddy.version>
+    <byte-buddy.version>1.14.18</byte-buddy.version>
   </properties>
 
   <dependencyManagement>
