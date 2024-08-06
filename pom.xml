@@ -35,8 +35,8 @@
     <picocli.version>4.7.6</picocli.version>
     <rest-assured.version>5.5.0</rest-assured.version>
     <commons-codec.version>1.17.1</commons-codec.version>
-    <testcontainers.version>1.20.0</testcontainers.version>
-    <dagger.version>2.51.1</dagger.version>
+    <testcontainers.version>1.20.1</testcontainers.version>
+    <dagger.version>2.52</dagger.version>
     <errorprone.version>2.29.2</errorprone.version>
     <commons-lang3.version>3.15.0</commons-lang3.version>
     <postgresql.version>42.7.3</postgresql.version>
@@ -51,11 +51,11 @@
     <hikari-cp.version>5.1.0</hikari-cp.version>
     <google-auto-value.version>1.11.0</google-auto-value.version>
     <jte.version>3.1.12</jte.version>
-    <hazelcast.version>5.4.0</hazelcast.version>
+    <hazelcast.version>5.5.0</hazelcast.version>
     <guava.version>33.2.1-jre</guava.version>
     <snakeyaml.version>2.2</snakeyaml.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>10.16.0</flyway.version>
+    <flyway.version>10.17.0</flyway.version>
     <playwright.version>1.45.1</playwright.version>
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.0</jakarta.validation-api.version>
