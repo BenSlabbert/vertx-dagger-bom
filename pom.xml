@@ -39,7 +39,7 @@
     <dagger.version>2.52</dagger.version>
     <errorprone.version>2.30.0</errorprone.version>
     <commons-lang3.version>3.16.0</commons-lang3.version>
-    <postgresql.version>42.7.3</postgresql.version>
+    <postgresql.version>42.7.4</postgresql.version>
     <jooq.version>3.19.11</jooq.version>
     <scram.version>2.1</scram.version>
     <org.mapstruct.version>1.6.0</org.mapstruct.version>
@@ -55,7 +55,7 @@
     <guava.version>33.3.0-jre</guava.version>
     <snakeyaml.version>2.2</snakeyaml.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>10.17.1</flyway.version>
+    <flyway.version>10.17.2</flyway.version>
     <playwright.version>1.46.0</playwright.version>
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.0</jakarta.validation-api.version>
@@ -85,7 +85,7 @@
     <flatten-maven-plugin.version>1.6.0</flatten-maven-plugin.version>
     <spotless.version>2.43.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.14.19</byte-buddy.version>
+    <byte-buddy.version>1.15.0</byte-buddy.version>
   </properties>
 
   <dependencyManagement>
