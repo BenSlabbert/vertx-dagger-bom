@@ -48,7 +48,7 @@
     <compile-testing.version>0.21.0</compile-testing.version>
     <slf4j-api.version>2.0.16</slf4j-api.version>
     <logback.version>1.5.8</logback.version>
-    <hikari-cp.version>5.1.0</hikari-cp.version>
+    <hikari-cp.version>6.0.0</hikari-cp.version>
     <google-auto-value.version>1.11.0</google-auto-value.version>
     <jte.version>3.1.12</jte.version>
     <hazelcast.version>5.5.0</hazelcast.version>
