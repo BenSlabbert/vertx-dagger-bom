@@ -31,13 +31,13 @@
     <junit-jupiter.version>5.11.1</junit-jupiter.version>
     <assertj-core.version>3.26.3</assertj-core.version>
     <lombok.version>1.18.34</lombok.version>
-    <mockito.version>5.13.0</mockito.version>
+    <mockito.version>5.14.1</mockito.version>
     <picocli.version>4.7.6</picocli.version>
     <rest-assured.version>5.5.0</rest-assured.version>
     <commons-codec.version>1.17.1</commons-codec.version>
-    <testcontainers.version>1.20.1</testcontainers.version>
+    <testcontainers.version>1.20.2</testcontainers.version>
     <dagger.version>2.52</dagger.version>
-    <errorprone.version>2.32.0</errorprone.version>
+    <errorprone.version>2.33.0</errorprone.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
     <postgresql.version>42.7.4</postgresql.version>
     <jooq.version>3.19.13</jooq.version>
