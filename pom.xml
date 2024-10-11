@@ -47,10 +47,10 @@
     <auto-service.version>1.1.1</auto-service.version>
     <compile-testing.version>0.21.0</compile-testing.version>
     <slf4j-api.version>2.0.16</slf4j-api.version>
-    <logback.version>1.5.8</logback.version>
+    <logback.version>1.5.9</logback.version>
     <hikari-cp.version>6.0.0</hikari-cp.version>
     <google-auto-value.version>1.11.0</google-auto-value.version>
-    <jte.version>3.1.12</jte.version>
+    <jte.version>3.1.13</jte.version>
     <hazelcast.version>5.5.0</hazelcast.version>
     <guava.version>33.3.1-jre</guava.version>
     <snakeyaml.version>2.2</snakeyaml.version>
@@ -63,7 +63,7 @@
     <expressly.version>5.0.0</expressly.version>
 
     <!--plugins-->
-    <vertx-maven-plugin.version>2.0.0</vertx-maven-plugin.version>
+    <vertx-maven-plugin.version>2.0.1</vertx-maven-plugin.version>
     <maven-plugin-plugin.version>3.13.0</maven-plugin-plugin.version>
     <maven-site-plugin.version>3.20.0</maven-site-plugin.version>
     <exec-maven-plugin.version>3.4.1</exec-maven-plugin.version>
@@ -85,7 +85,7 @@
     <flatten-maven-plugin.version>1.6.0</flatten-maven-plugin.version>
     <spotless.version>2.43.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.15.3</byte-buddy.version>
+    <byte-buddy.version>1.15.4</byte-buddy.version>
   </properties>
 
   <dependencyManagement>
