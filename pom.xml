@@ -47,7 +47,7 @@
     <auto-service.version>1.1.1</auto-service.version>
     <compile-testing.version>0.21.0</compile-testing.version>
     <slf4j-api.version>2.0.16</slf4j-api.version>
-    <logback.version>1.5.9</logback.version>
+    <logback.version>1.5.10</logback.version>
     <hikari-cp.version>6.0.0</hikari-cp.version>
     <google-auto-value.version>1.11.0</google-auto-value.version>
     <jte.version>3.1.13</jte.version>
