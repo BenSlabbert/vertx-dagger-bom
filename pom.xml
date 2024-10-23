@@ -35,7 +35,7 @@
     <picocli.version>4.7.6</picocli.version>
     <rest-assured.version>5.5.0</rest-assured.version>
     <commons-codec.version>1.17.1</commons-codec.version>
-    <testcontainers.version>1.20.2</testcontainers.version>
+    <testcontainers.version>1.20.3</testcontainers.version>
     <dagger.version>2.52</dagger.version>
     <errorprone.version>2.34.0</errorprone.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
@@ -65,8 +65,8 @@
     <!--plugins-->
     <vertx-maven-plugin.version>2.0.1</vertx-maven-plugin.version>
     <maven-plugin-plugin.version>3.13.0</maven-plugin-plugin.version>
-    <maven-site-plugin.version>3.20.0</maven-site-plugin.version>
-    <exec-maven-plugin.version>3.4.1</exec-maven-plugin.version>
+    <maven-site-plugin.version>3.21.0</maven-site-plugin.version>
+    <exec-maven-plugin.version>3.5.0</exec-maven-plugin.version>
     <maven-surefire-plugin.version>3.5.1</maven-surefire-plugin.version>
     <maven-failsafe-plugin.version>3.5.1</maven-failsafe-plugin.version>
     <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
