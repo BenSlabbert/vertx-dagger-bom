@@ -36,7 +36,7 @@
     <rest-assured.version>5.5.0</rest-assured.version>
     <commons-codec.version>1.17.1</commons-codec.version>
     <testcontainers.version>1.20.4</testcontainers.version>
-    <dagger.version>2.52</dagger.version>
+    <dagger.version>2.53</dagger.version>
     <errorprone.version>2.36.0</errorprone.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
     <postgresql.version>42.7.4</postgresql.version>
