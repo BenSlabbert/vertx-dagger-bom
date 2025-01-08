@@ -34,7 +34,7 @@
     <mockito.version>5.15.2</mockito.version>
     <picocli.version>4.7.6</picocli.version>
     <rest-assured.version>5.5.0</rest-assured.version>
-    <commons-codec.version>1.17.1</commons-codec.version>
+    <commons-codec.version>1.17.2</commons-codec.version>
     <testcontainers.version>1.20.4</testcontainers.version>
     <dagger.version>2.54</dagger.version>
     <errorprone.version>2.36.0</errorprone.version>
@@ -55,7 +55,7 @@
     <guava.version>33.4.0-jre</guava.version>
     <snakeyaml.version>2.2</snakeyaml.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>11.1.0</flyway.version>
+    <flyway.version>11.1.1</flyway.version>
     <playwright.version>1.49.0</playwright.version>
     <hibernate-validator.version>8.0.2.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.0</jakarta.validation-api.version>
@@ -83,7 +83,7 @@
     <maven-enforcer-plugin.version>3.5.0</maven-enforcer-plugin.version>
     <maven-surefire-report-plugin.version>3.5.2</maven-surefire-report-plugin.version>
     <flatten-maven-plugin.version>1.6.0</flatten-maven-plugin.version>
-    <spotless.version>2.43.0</spotless.version>
+    <spotless.version>2.44.1</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
     <byte-buddy.version>1.15.11</byte-buddy.version>
   </properties>
