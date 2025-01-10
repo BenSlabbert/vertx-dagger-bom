@@ -36,11 +36,11 @@
     <rest-assured.version>5.5.0</rest-assured.version>
     <commons-codec.version>1.17.2</commons-codec.version>
     <testcontainers.version>1.20.4</testcontainers.version>
-    <dagger.version>2.54</dagger.version>
+    <dagger.version>2.55</dagger.version>
     <errorprone.version>2.36.0</errorprone.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
     <postgresql.version>42.7.4</postgresql.version>
-    <jooq.version>3.19.16</jooq.version>
+    <jooq.version>3.19.17</jooq.version>
     <scram.version>2.1</scram.version>
     <org.mapstruct.version>1.6.3</org.mapstruct.version>
     <lombok-mapstruct-binding.version>0.2.0</lombok-mapstruct-binding.version>
