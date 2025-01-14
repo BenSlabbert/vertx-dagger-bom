@@ -39,7 +39,7 @@
     <dagger.version>2.55</dagger.version>
     <errorprone.version>2.36.0</errorprone.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
-    <postgresql.version>42.7.4</postgresql.version>
+    <postgresql.version>42.7.5</postgresql.version>
     <jooq.version>3.19.17</jooq.version>
     <scram.version>2.1</scram.version>
     <org.mapstruct.version>1.6.3</org.mapstruct.version>
@@ -206,7 +206,7 @@
         <groupId>io.netty</groupId>
         <artifactId>netty-transport-native-epoll</artifactId>
         <!--Should align with netty version that Vert.x uses-->
-        <version>4.1.116.Final</version>
+        <version>4.1.117.Final</version>
         <classifier>linux-x86_64</classifier>
       </dependency>
       <dependency>
