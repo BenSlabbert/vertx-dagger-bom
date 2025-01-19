@@ -490,6 +490,10 @@
               <include>**/*.yaml</include>
               <include>**/*.yml</include>
             </includes>
+            <excludes>
+              <exclude>**/helm/templates/**</exclude>
+              <exclude>**/node_modules/**</exclude>
+            </excludes>
             <jackson />
           </yaml>
           <pom>
@@ -512,8 +516,27 @@
             <includes>
               <include>**/*.md</include>
             </includes>
+            <excludes>
+              <exclude>**/node_modules/**</exclude>
+            </excludes>
             <flexmark />
           </markdown>
+          <java>
+            <includes>
+              <include>src/main/**/*.java</include>
+              <include>src/test/**/*.java</include>
+              <include>target/generated-sources/**/github/benslabbert/**/*.java</include>
+            </includes>
+            <googleJavaFormat>
+              <style>GOOGLE</style>
+              <reflowLongStrings>true</reflowLongStrings>
+            </googleJavaFormat>
+            <formatAnnotations />
+            <licenseHeader>
+              <content>/* Licensed under Apache-2.0 $YEAR. */</content>
+              <delimiter>package</delimiter>
+            </licenseHeader>
+          </java>
         </configuration>
       </plugin>
       <plugin>
