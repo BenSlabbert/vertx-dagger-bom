@@ -29,7 +29,7 @@
     <!--deps-->
     <vertx.version>4.5.11</vertx.version>
     <junit.version>5.11.4</junit.version>
-    <assertj.version>3.27.2</assertj.version>
+    <assertj.version>3.27.3</assertj.version>
     <lombok.version>1.18.36</lombok.version>
     <mockito.version>5.15.2</mockito.version>
     <picocli.version>4.7.6</picocli.version>
@@ -86,7 +86,7 @@
     <flatten-maven-plugin.version>1.6.0</flatten-maven-plugin.version>
     <spotless.version>2.44.2</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.15.11</byte-buddy.version>
+    <byte-buddy.version>1.16.1</byte-buddy.version>
   </properties>
 
   <dependencyManagement>
