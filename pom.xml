@@ -175,6 +175,11 @@
         <version>${hazelcast.version}</version>
       </dependency>
       <dependency>
+        <groupId>com.microsoft.playwright</groupId>
+        <artifactId>playwright</artifactId>
+        <version>${playwright.version}</version>
+      </dependency>
+      <dependency>
         <groupId>com.ongres.scram</groupId>
         <artifactId>client</artifactId>
         <version>${scram.version}</version>
@@ -309,12 +314,6 @@
         <groupId>com.google.testing.compile</groupId>
         <artifactId>compile-testing</artifactId>
         <version>${compile-testing.version}</version>
-        <scope>test</scope>
-      </dependency>
-      <dependency>
-        <groupId>com.microsoft.playwright</groupId>
-        <artifactId>playwright</artifactId>
-        <version>${playwright.version}</version>
         <scope>test</scope>
       </dependency>
       <!--overriding rest-assured transitive deps-->
