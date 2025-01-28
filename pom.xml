@@ -34,7 +34,7 @@
     <mockito.version>5.15.2</mockito.version>
     <picocli.version>4.7.6</picocli.version>
     <rest-assured.version>5.5.0</rest-assured.version>
-    <commons-codec.version>1.17.2</commons-codec.version>
+    <commons-codec.version>1.18.0</commons-codec.version>
     <testcontainers.version>1.20.4</testcontainers.version>
     <dagger.version>2.55</dagger.version>
     <errorprone.version>2.36.0</errorprone.version>
