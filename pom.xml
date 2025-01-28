@@ -51,9 +51,6 @@
     <hikari-cp.version>6.2.1</hikari-cp.version>
     <google-auto-value.version>1.11.0</google-auto-value.version>
     <jte.version>3.1.16</jte.version>
-    <hazelcast.version>5.5.0</hazelcast.version>
-    <guava.version>33.4.0-jre</guava.version>
-    <snakeyaml.version>2.2</snakeyaml.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
     <flyway.version>11.2.0</flyway.version>
     <playwright.version>1.49.0</playwright.version>
@@ -165,16 +162,6 @@
         <version>${errorprone.version}</version>
       </dependency>
       <dependency>
-        <groupId>com.google.guava</groupId>
-        <artifactId>guava</artifactId>
-        <version>${guava.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>com.hazelcast</groupId>
-        <artifactId>hazelcast</artifactId>
-        <version>${hazelcast.version}</version>
-      </dependency>
-      <dependency>
         <groupId>com.microsoft.playwright</groupId>
         <artifactId>playwright</artifactId>
         <version>${playwright.version}</version>
@@ -213,19 +200,6 @@
         <groupId>info.picocli</groupId>
         <artifactId>picocli</artifactId>
         <version>${picocli.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>io.netty</groupId>
-        <artifactId>netty-transport-native-epoll</artifactId>
-        <!--Should align with netty version that Vert.x uses-->
-        <version>4.1.117.Final</version>
-        <classifier>linux-x86_64</classifier>
-      </dependency>
-      <dependency>
-        <groupId>io.vertx</groupId>
-        <artifactId>vertx-codegen</artifactId>
-        <version>${vertx.version}</version>
-        <classifier>processor</classifier>
       </dependency>
       <dependency>
         <groupId>jakarta.annotation</groupId>
