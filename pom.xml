@@ -52,7 +52,7 @@
     <google-auto-value.version>1.11.0</google-auto-value.version>
     <jte.version>3.1.16</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>11.4.0</flyway.version>
+    <flyway.version>11.4.1</flyway.version>
     <playwright.version>1.51.0</playwright.version>
     <hibernate-validator.version>8.0.2.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
@@ -83,7 +83,7 @@
     <flatten-maven-plugin.version>1.7.0</flatten-maven-plugin.version>
     <spotless.version>2.44.3</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.17.2</byte-buddy.version>
+    <byte-buddy.version>1.17.4</byte-buddy.version>
   </properties>
 
   <dependencyManagement>
