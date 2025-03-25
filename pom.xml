@@ -48,7 +48,7 @@
     <compile-testing.version>0.21.0</compile-testing.version>
     <slf4j.version>2.0.17</slf4j.version>
     <logback.version>1.5.18</logback.version>
-    <hikari-cp.version>6.2.1</hikari-cp.version>
+    <hikari-cp.version>6.3.0</hikari-cp.version>
     <google-auto-value.version>1.11.0</google-auto-value.version>
     <jte.version>3.1.16</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
