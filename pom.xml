@@ -81,7 +81,7 @@
     <maven-enforcer-plugin.version>3.5.0</maven-enforcer-plugin.version>
     <maven-surefire-report-plugin.version>3.5.3</maven-surefire-report-plugin.version>
     <flatten-maven-plugin.version>1.7.0</flatten-maven-plugin.version>
-    <spotless.version>2.44.3</spotless.version>
+    <spotless.version>2.44.4</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
     <byte-buddy.version>1.17.5</byte-buddy.version>
   </properties>
