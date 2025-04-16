@@ -22,7 +22,7 @@
     <java.exec>java</java.exec>
     <revision>0.0.0-SNAPSHOT</revision>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <java.version>23</java.version>
+    <java.version>24</java.version>
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
 
