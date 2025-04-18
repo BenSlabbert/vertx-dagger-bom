@@ -52,7 +52,7 @@
     <google-auto-value.version>1.11.0</google-auto-value.version>
     <jte.version>3.2.0</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>11.7.1</flyway.version>
+    <flyway.version>11.7.2</flyway.version>
     <playwright.version>1.51.0</playwright.version>
     <hibernate-validator.version>8.0.2.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
