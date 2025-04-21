@@ -32,12 +32,12 @@
     <assertj.version>3.27.3</assertj.version>
     <lombok.version>1.18.38</lombok.version>
     <mockito.version>5.17.0</mockito.version>
-    <picocli.version>4.7.6</picocli.version>
+    <picocli.version>4.7.7</picocli.version>
     <rest-assured.version>5.5.1</rest-assured.version>
     <commons-codec.version>1.18.0</commons-codec.version>
     <testcontainers.version>1.20.6</testcontainers.version>
     <dagger.version>2.56.2</dagger.version>
-    <errorprone.version>2.37.0</errorprone.version>
+    <errorprone.version>2.38.0</errorprone.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
     <postgresql.version>42.7.5</postgresql.version>
     <jooq.version>3.20.3</jooq.version>
