@@ -51,7 +51,7 @@
     <hikari-cp.version>6.3.0</hikari-cp.version>
     <google-auto-value.version>1.11.0</google-auto-value.version>
     <guava.version>33.4.8-jre</guava.version>
-    <jte.version>3.2.0</jte.version>
+    <jte.version>3.2.1</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
     <flyway.version>11.8.0</flyway.version>
     <playwright.version>1.51.0</playwright.version>
