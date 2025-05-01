@@ -85,6 +85,7 @@
     <spotless.version>2.44.4</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
     <byte-buddy.version>1.17.5</byte-buddy.version>
+    <google-java-format.version>1.26.0</google-java-format.version>
   </properties>
 
   <dependencyManagement>
@@ -161,6 +162,11 @@
         <groupId>com.google.errorprone</groupId>
         <artifactId>error_prone_core</artifactId>
         <version>${errorprone.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.google.googlejavaformat</groupId>
+        <artifactId>google-java-format</artifactId>
+        <version>${google-java-format.version}</version>
       </dependency>
       <dependency>
         <groupId>com.google.guava</groupId>
