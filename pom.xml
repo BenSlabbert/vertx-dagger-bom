@@ -52,7 +52,7 @@
     <guava.version>33.4.8-jre</guava.version>
     <jte.version>3.2.1</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>11.8.0</flyway.version>
+    <flyway.version>11.8.1</flyway.version>
     <playwright.version>1.52.0</playwright.version>
     <hibernate-validator.version>8.0.2.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
@@ -84,7 +84,7 @@
     <spotless.version>2.44.4</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
     <byte-buddy.version>1.17.5</byte-buddy.version>
-    <google-java-format.version>1.26.0</google-java-format.version>
+    <google-java-format.version>1.27.0</google-java-format.version>
   </properties>
 
   <dependencyManagement>
