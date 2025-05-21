@@ -31,7 +31,7 @@
     <junit.version>5.12.2</junit.version>
     <assertj.version>3.27.3</assertj.version>
     <lombok.version>1.18.38</lombok.version>
-    <mockito.version>5.17.0</mockito.version>
+    <mockito.version>5.18.0</mockito.version>
     <picocli.version>4.7.7</picocli.version>
     <rest-assured.version>5.5.2</rest-assured.version>
     <commons-codec.version>1.18.0</commons-codec.version>
