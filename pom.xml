@@ -64,7 +64,7 @@
     <vertx-maven-plugin.version>2.0.1</vertx-maven-plugin.version>
     <maven-plugin-plugin.version>3.13.0</maven-plugin-plugin.version>
     <maven-site-plugin.version>3.21.0</maven-site-plugin.version>
-    <exec-maven-plugin.version>3.5.0</exec-maven-plugin.version>
+    <exec-maven-plugin.version>3.5.1</exec-maven-plugin.version>
     <maven-surefire-plugin.version>3.5.3</maven-surefire-plugin.version>
     <maven-failsafe-plugin.version>3.5.3</maven-failsafe-plugin.version>
     <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
@@ -81,7 +81,7 @@
     <maven-enforcer-plugin.version>3.5.0</maven-enforcer-plugin.version>
     <maven-surefire-report-plugin.version>3.5.3</maven-surefire-report-plugin.version>
     <flatten-maven-plugin.version>1.7.0</flatten-maven-plugin.version>
-    <spotless.version>2.44.4</spotless.version>
+    <spotless.version>2.44.5</spotless.version>
     <build-helper-maven-plugin.version>3.6.0</build-helper-maven-plugin.version>
     <byte-buddy.version>1.17.5</byte-buddy.version>
     <google-java-format.version>1.27.0</google-java-format.version>
