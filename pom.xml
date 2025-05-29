@@ -39,7 +39,7 @@
     <dagger.version>2.56.2</dagger.version>
     <errorprone.version>2.38.0</errorprone.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
-    <postgresql.version>42.7.5</postgresql.version>
+    <postgresql.version>42.7.6</postgresql.version>
     <jooq.version>3.20.4</jooq.version>
     <scram.version>3.1</scram.version>
     <org.mapstruct.version>1.6.3</org.mapstruct.version>
@@ -61,7 +61,7 @@
     <javapoet.version>0.7.0</javapoet.version>
 
     <!--plugins-->
-    <vertx-maven-plugin.version>2.0.1</vertx-maven-plugin.version>
+    <vertx-maven-plugin.version>2.0.2</vertx-maven-plugin.version>
     <maven-plugin-plugin.version>3.13.0</maven-plugin-plugin.version>
     <maven-site-plugin.version>3.21.0</maven-site-plugin.version>
     <exec-maven-plugin.version>3.5.1</exec-maven-plugin.version>
