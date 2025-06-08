@@ -518,6 +518,14 @@
               <delimiter>package</delimiter>
             </licenseHeader>
           </java>
+          <sql>
+            <includes>
+              <include>**/**/*.sql</include>
+            </includes>
+            <dbeaver>
+              <configFile>dbeaver.properties</configFile>
+            </dbeaver>
+          </sql>
         </configuration>
       </plugin>
       <plugin>
