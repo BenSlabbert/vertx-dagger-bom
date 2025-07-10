@@ -37,8 +37,8 @@
     <commons-codec.version>1.18.0</commons-codec.version>
     <testcontainers.version>1.21.3</testcontainers.version>
     <dagger.version>2.56.2</dagger.version>
-    <errorprone.version>2.39.0</errorprone.version>
-    <commons-lang3.version>3.17.0</commons-lang3.version>
+    <errorprone.version>2.40.0</errorprone.version>
+    <commons-lang3.version>3.18.0</commons-lang3.version>
     <postgresql.version>42.7.7</postgresql.version>
     <jooq.version>3.20.5</jooq.version>
     <scram.version>3.1</scram.version>
@@ -84,7 +84,7 @@
     <spotless.version>2.45.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.1</build-helper-maven-plugin.version>
     <byte-buddy.version>1.17.6</byte-buddy.version>
-    <google-java-format.version>1.27.0</google-java-format.version>
+    <google-java-format.version>1.28.0</google-java-format.version>
   </properties>
 
   <dependencyManagement>
