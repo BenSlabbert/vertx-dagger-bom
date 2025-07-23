@@ -28,13 +28,13 @@
 
     <!--deps-->
     <vertx.version>5.0.1</vertx.version>
-    <junit.version>5.13.3</junit.version>
+    <junit.version>5.13.4</junit.version>
     <assertj.version>3.27.3</assertj.version>
     <lombok.version>1.18.38</lombok.version>
     <mockito.version>5.18.0</mockito.version>
     <picocli.version>4.7.7</picocli.version>
     <rest-assured.version>5.5.5</rest-assured.version>
-    <commons-codec.version>1.18.0</commons-codec.version>
+    <commons-codec.version>1.19.0</commons-codec.version>
     <testcontainers.version>1.21.3</testcontainers.version>
     <dagger.version>2.57</dagger.version>
     <errorprone.version>2.40.0</errorprone.version>
@@ -53,7 +53,7 @@
     <jte.version>3.2.1</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
     <flyway.version>11.10.3</flyway.version>
-    <playwright.version>1.53.0</playwright.version>
+    <playwright.version>1.54.0</playwright.version>
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
@@ -81,7 +81,7 @@
     <maven-enforcer-plugin.version>3.6.1</maven-enforcer-plugin.version>
     <maven-surefire-report-plugin.version>3.5.3</maven-surefire-report-plugin.version>
     <flatten-maven-plugin.version>1.7.1</flatten-maven-plugin.version>
-    <spotless.version>2.46.0</spotless.version>
+    <spotless.version>2.46.1</spotless.version>
     <build-helper-maven-plugin.version>3.6.1</build-helper-maven-plugin.version>
     <byte-buddy.version>1.17.6</byte-buddy.version>
     <google-java-format.version>1.28.0</google-java-format.version>
