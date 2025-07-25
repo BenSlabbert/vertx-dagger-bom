@@ -37,7 +37,7 @@
     <commons-codec.version>1.19.0</commons-codec.version>
     <testcontainers.version>1.21.3</testcontainers.version>
     <dagger.version>2.57</dagger.version>
-    <errorprone.version>2.40.0</errorprone.version>
+    <errorprone.version>2.41.0</errorprone.version>
     <commons-lang3.version>3.18.0</commons-lang3.version>
     <postgresql.version>42.7.7</postgresql.version>
     <jooq.version>3.20.5</jooq.version>
@@ -52,7 +52,7 @@
     <guava.version>33.4.8-jre</guava.version>
     <jte.version>3.2.1</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>11.10.3</flyway.version>
+    <flyway.version>11.10.4</flyway.version>
     <playwright.version>1.54.0</playwright.version>
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
