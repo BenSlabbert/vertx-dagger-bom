@@ -29,7 +29,7 @@
     <!--deps-->
     <vertx.version>5.0.2</vertx.version>
     <junit.version>5.13.4</junit.version>
-    <assertj.version>3.27.3</assertj.version>
+    <assertj.version>3.27.4</assertj.version>
     <lombok.version>1.18.38</lombok.version>
     <mockito.version>5.18.0</mockito.version>
     <picocli.version>4.7.7</picocli.version>
