@@ -31,9 +31,9 @@
     <junit.version>5.13.4</junit.version>
     <assertj.version>3.27.4</assertj.version>
     <lombok.version>1.18.38</lombok.version>
-    <mockito.version>5.18.0</mockito.version>
+    <mockito.version>5.19.0</mockito.version>
     <picocli.version>4.7.7</picocli.version>
-    <rest-assured.version>5.5.5</rest-assured.version>
+    <rest-assured.version>5.5.6</rest-assured.version>
     <commons-codec.version>1.19.0</commons-codec.version>
     <testcontainers.version>1.21.3</testcontainers.version>
     <dagger.version>2.57</dagger.version>
@@ -75,7 +75,7 @@
     <maven-clean-plugin.version>3.5.0</maven-clean-plugin.version>
     <maven-resource-plugin.version>3.3.1</maven-resource-plugin.version>
     <maven-deploy-plugin.version>3.1.4</maven-deploy-plugin.version>
-    <maven-javadoc-plugin.version>3.11.2</maven-javadoc-plugin.version>
+    <maven-javadoc-plugin.version>3.11.3</maven-javadoc-plugin.version>
     <maven-source-plugin.version>3.3.1</maven-source-plugin.version>
     <maven-release-plugin.version>3.1.1</maven-release-plugin.version>
     <maven-enforcer-plugin.version>3.6.1</maven-enforcer-plugin.version>
@@ -83,7 +83,7 @@
     <flatten-maven-plugin.version>1.7.2</flatten-maven-plugin.version>
     <spotless.version>2.46.1</spotless.version>
     <build-helper-maven-plugin.version>3.6.1</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.17.6</byte-buddy.version>
+    <byte-buddy.version>1.17.7</byte-buddy.version>
     <google-java-format.version>1.28.0</google-java-format.version>
     <maven-jxr-plugin.version>3.6.0</maven-jxr-plugin.version>
     <maven-site-plugin.version>3.21.0</maven-site-plugin.version>
