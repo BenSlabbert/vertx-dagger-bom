@@ -27,7 +27,7 @@
     <maven.compiler.target>${java.version}</maven.compiler.target>
 
     <!--deps-->
-    <vertx.version>5.0.3</vertx.version>
+    <vertx.version>5.0.4</vertx.version>
     <junit.version>5.13.4</junit.version>
     <assertj.version>3.27.4</assertj.version>
     <lombok.version>1.18.38</lombok.version>
