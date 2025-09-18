@@ -30,7 +30,7 @@
     <vertx.version>5.0.4</vertx.version>
     <junit.version>5.13.4</junit.version>
     <assertj.version>3.27.4</assertj.version>
-    <lombok.version>1.18.40</lombok.version>
+    <lombok.version>1.18.42</lombok.version>
     <mockito.version>5.19.0</mockito.version>
     <picocli.version>4.7.7</picocli.version>
     <rest-assured.version>5.5.6</rest-assured.version>
@@ -49,10 +49,10 @@
     <logback.version>1.5.18</logback.version>
     <hikari-cp.version>7.0.2</hikari-cp.version>
     <google-auto-value.version>1.11.0</google-auto-value.version>
-    <guava.version>33.4.8-jre</guava.version>
+    <guava.version>33.5.0-jre</guava.version>
     <jte.version>3.2.1</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>11.13.0</flyway.version>
+    <flyway.version>11.13.1</flyway.version>
     <playwright.version>1.55.0</playwright.version>
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
