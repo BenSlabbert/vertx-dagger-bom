@@ -29,7 +29,7 @@
     <!--deps-->
     <vertx.version>5.0.4</vertx.version>
     <junit.version>5.13.4</junit.version>
-    <assertj.version>3.27.4</assertj.version>
+    <assertj.version>3.27.5</assertj.version>
     <lombok.version>1.18.42</lombok.version>
     <mockito.version>5.19.0</mockito.version>
     <picocli.version>4.7.7</picocli.version>
@@ -39,7 +39,7 @@
     <dagger.version>2.57.1</dagger.version>
     <errorprone.version>2.41.0</errorprone.version>
     <commons-lang3.version>3.18.0</commons-lang3.version>
-    <postgresql.version>42.7.7</postgresql.version>
+    <postgresql.version>42.7.8</postgresql.version>
     <jooq.version>3.20.7</jooq.version>
     <scram.version>3.2</scram.version>
     <org.mapstruct.version>1.6.3</org.mapstruct.version>
