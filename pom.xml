@@ -52,7 +52,7 @@
     <guava.version>33.5.0-jre</guava.version>
     <jte.version>3.2.1</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>11.14.1</flyway.version>
+    <flyway.version>11.15.0</flyway.version>
     <playwright.version>1.56.0</playwright.version>
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
