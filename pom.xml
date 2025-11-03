@@ -28,7 +28,7 @@
 
     <!--deps-->
     <vertx.version>5.0.5</vertx.version>
-    <junit.version>6.0.0</junit.version>
+    <junit.version>6.0.1</junit.version>
     <assertj.version>3.27.6</assertj.version>
     <lombok.version>1.18.42</lombok.version>
     <mockito.version>5.20.0</mockito.version>
