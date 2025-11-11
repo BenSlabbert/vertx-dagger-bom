@@ -46,7 +46,7 @@
     <lombok-mapstruct-binding.version>0.2.0</lombok-mapstruct-binding.version>
     <auto-service.version>1.1.1</auto-service.version>
     <slf4j.version>2.0.17</slf4j.version>
-    <logback.version>1.5.20</logback.version>
+    <logback.version>1.5.21</logback.version>
     <hikari-cp.version>7.0.2</hikari-cp.version>
     <google-auto-value.version>1.11.0</google-auto-value.version>
     <guava.version>33.5.0-jre</guava.version>
