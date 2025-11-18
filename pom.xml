@@ -38,7 +38,7 @@
     <testcontainers.version>2.0.2</testcontainers.version>
     <dagger.version>2.57.2</dagger.version>
     <errorprone.version>2.44.0</errorprone.version>
-    <commons-lang3.version>3.19.0</commons-lang3.version>
+    <commons-lang3.version>3.20.0</commons-lang3.version>
     <postgresql.version>42.7.8</postgresql.version>
     <jooq.version>3.20.9</jooq.version>
     <scram.version>3.2</scram.version>
@@ -68,7 +68,7 @@
     <maven-surefire-plugin.version>3.5.4</maven-surefire-plugin.version>
     <maven-failsafe-plugin.version>3.5.4</maven-failsafe-plugin.version>
     <maven-compiler-plugin.version>3.14.1</maven-compiler-plugin.version>
-    <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
+    <maven-jar-plugin.version>3.5.0</maven-jar-plugin.version>
     <maven-install-plugin.version>3.1.4</maven-install-plugin.version>
     <maven-dependency-plugin.version>3.9.0</maven-dependency-plugin.version>
     <maven-shade-plugin.version>3.6.1</maven-shade-plugin.version>
