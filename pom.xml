@@ -53,7 +53,7 @@
     <jte.version>3.2.1</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
     <flyway.version>11.18.0</flyway.version>
-    <playwright.version>1.56.0</playwright.version>
+    <playwright.version>1.57.0</playwright.version>
     <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
