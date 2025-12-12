@@ -81,7 +81,6 @@
     <maven-release-plugin.version>3.3.0</maven-release-plugin.version>
     <maven-enforcer-plugin.version>3.6.2</maven-enforcer-plugin.version>
     <maven-surefire-report-plugin.version>3.5.4</maven-surefire-report-plugin.version>
-    <flatten-maven-plugin.version>1.7.3</flatten-maven-plugin.version>
     <spotless.version>3.1.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.1</build-helper-maven-plugin.version>
     <byte-buddy.version>1.18.2</byte-buddy.version>
@@ -460,11 +459,6 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>${exec-maven-plugin.version}</version>
         </plugin>
-        <plugin>
-          <groupId>org.codehaus.mojo</groupId>
-          <artifactId>flatten-maven-plugin</artifactId>
-          <version>${flatten-maven-plugin.version}</version>
-        </plugin>
       </plugins>
     </pluginManagement>
 
@@ -546,32 +540,6 @@
               <goal>jar-no-fork</goal>
             </goals>
             <phase>verify</phase>
-          </execution>
-        </executions>
-      </plugin>
-      <plugin>
-        <groupId>org.codehaus.mojo</groupId>
-        <artifactId>flatten-maven-plugin</artifactId>
-        <version>${flatten-maven-plugin.version}</version>
-        <configuration>
-          <updatePomFile>true</updatePomFile>
-          <flattenMode>resolveCiFriendliesOnly</flattenMode>
-          <outputDirectory>${project.build.directory}</outputDirectory>
-        </configuration>
-        <executions>
-          <execution>
-            <id>flatten</id>
-            <goals>
-              <goal>flatten</goal>
-            </goals>
-            <phase>process-resources</phase>
-          </execution>
-          <execution>
-            <id>flatten.clean</id>
-            <goals>
-              <goal>clean</goal>
-            </goals>
-            <phase>clean</phase>
           </execution>
         </executions>
       </plugin>
