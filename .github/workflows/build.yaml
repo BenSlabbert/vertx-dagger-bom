@@ -26,6 +26,7 @@ jobs:
       uses: "stCarolas/setup-maven@v5"
       with:
         maven-version: "4.0.0-rc-5"
+    - run: "mvn --version"
     - run: "git fetch --prune --unshallow --tags"
-    - run: "make 'M=mvn -s settings.xml -T 1C' fmtCheck"
-    - run: "make 'M=mvn -s settings.xml -T 1C' build"
+    - run: "mvn -s settings.xml spotless:apply"
+    - run: "mvn -s settings.xml clean install"
