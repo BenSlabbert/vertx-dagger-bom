@@ -1,7 +1,0 @@
-<extensions>
-  <extension>
-    <groupId>github.benslabbert</groupId>
-    <artifactId>git-version-extension</artifactId>
-    <version>3.1.0</version>
-  </extension>
-</extensions>
