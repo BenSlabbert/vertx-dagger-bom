@@ -25,6 +25,16 @@
             <enabled>true</enabled>
           </releases>
         </repository>
+        <repository>
+          <id>github</id>
+          <url>https://maven.pkg.github.com/BenSlabbert/compile-testing</url>
+          <snapshots>
+            <enabled>true</enabled>
+          </snapshots>
+          <releases>
+            <enabled>true</enabled>
+          </releases>
+        </repository>
       </repositories>
       <pluginRepositories>
         <pluginRepository>
