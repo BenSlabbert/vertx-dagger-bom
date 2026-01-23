@@ -81,7 +81,7 @@
     <maven-release-plugin.version>3.3.1</maven-release-plugin.version>
     <maven-enforcer-plugin.version>3.6.2</maven-enforcer-plugin.version>
     <maven-surefire-report-plugin.version>3.5.4</maven-surefire-report-plugin.version>
-    <spotless.version>3.1.0</spotless.version>
+    <spotless.version>3.2.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.1</build-helper-maven-plugin.version>
     <byte-buddy.version>1.18.4</byte-buddy.version>
     <google-java-format.version>1.33.0</google-java-format.version>
