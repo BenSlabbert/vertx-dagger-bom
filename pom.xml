@@ -59,7 +59,7 @@
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
     <expressly.version>6.0.0</expressly.version>
-    <javapoet.version>0.10.0</javapoet.version>
+    <javapoet.version>0.11.0</javapoet.version>
 
     <!--plugins-->
     <vertx-maven-plugin.version>2.0.2</vertx-maven-plugin.version>
