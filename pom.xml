@@ -32,13 +32,13 @@
     <junit.version>6.0.3</junit.version>
     <assertj.version>3.27.7</assertj.version>
     <lombok.version>1.18.42</lombok.version>
-    <mockito.version>5.21.0</mockito.version>
+    <mockito.version>5.22.0</mockito.version>
     <picocli.version>4.7.7</picocli.version>
     <rest-assured.version>6.0.0</rest-assured.version>
     <commons-codec.version>1.21.0</commons-codec.version>
     <testcontainers.version>2.0.3</testcontainers.version>
     <dagger.version>2.59.2</dagger.version>
-    <errorprone.version>2.47.0</errorprone.version>
+    <errorprone.version>2.48.0</errorprone.version>
     <commons-lang3.version>3.20.0</commons-lang3.version>
     <postgresql.version>42.7.10</postgresql.version>
     <jooq.version>3.20.11</jooq.version>
@@ -53,7 +53,7 @@
     <guava.version>33.5.0-jre</guava.version>
     <jte.version>3.2.3</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>12.0.2</flyway.version>
+    <flyway.version>12.0.3</flyway.version>
     <playwright.version>1.58.0</playwright.version>
     <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
@@ -83,7 +83,7 @@
     <maven-surefire-report-plugin.version>3.5.5</maven-surefire-report-plugin.version>
     <spotless.version>3.2.1</spotless.version>
     <build-helper-maven-plugin.version>3.6.1</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.18.5</byte-buddy.version>
+    <byte-buddy.version>1.18.7</byte-buddy.version>
     <google-java-format.version>1.34.1</google-java-format.version>
     <maven-jxr-plugin.version>3.6.0</maven-jxr-plugin.version>
     <maven-site-plugin.version>3.21.0</maven-site-plugin.version>
