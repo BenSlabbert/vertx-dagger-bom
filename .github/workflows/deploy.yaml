@@ -22,7 +22,7 @@ jobs:
     - name: "Set up Maven"
       uses: "stCarolas/setup-maven@v5"
       with:
-        maven-version: "4.0.0-rc-5"
+        maven-version: "3.9.14"
     - run: "mvn --version"
     - run: "git fetch --prune --unshallow --tags"
     - name: "Extract Current Tag"
