@@ -1,3 +1,4 @@
 java=26.ea.13-graal
-maven=4.0.0-rc-5
-mvnd=2.0.0-rc-3
+maven=3.9.14
+mvnd=1.0.5
+gradle=9.4.1
