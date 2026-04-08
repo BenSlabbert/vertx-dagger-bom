@@ -38,7 +38,7 @@
     <commons-codec.version>1.21.0</commons-codec.version>
     <testcontainers.version>2.0.4</testcontainers.version>
     <dagger.version>2.59.2</dagger.version>
-    <errorprone.version>2.48.0</errorprone.version>
+    <errorprone.version>2.49.0</errorprone.version>
     <commons-lang3.version>3.20.0</commons-lang3.version>
     <postgresql.version>42.7.10</postgresql.version>
     <jooq.version>3.21.1</jooq.version>
