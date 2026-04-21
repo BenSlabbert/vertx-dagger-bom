@@ -36,7 +36,7 @@
     <picocli.version>4.7.7</picocli.version>
     <rest-assured.version>6.0.0</rest-assured.version>
     <commons-codec.version>1.21.0</commons-codec.version>
-    <testcontainers.version>2.0.4</testcontainers.version>
+    <testcontainers.version>2.0.5</testcontainers.version>
     <dagger.version>2.59.2</dagger.version>
     <errorprone.version>2.49.0</errorprone.version>
     <commons-lang3.version>3.20.0</commons-lang3.version>
