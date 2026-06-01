@@ -53,13 +53,13 @@
     <guava.version>33.6.0-jre</guava.version>
     <jte.version>3.2.4</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>12.6.2</flyway.version>
+    <flyway.version>12.7.0</flyway.version>
     <playwright.version>1.60.0</playwright.version>
     <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
     <expressly.version>6.0.0</expressly.version>
-    <javapoet.version>0.15.0</javapoet.version>
+    <javapoet.version>0.16.0</javapoet.version>
 
     <!--plugins-->
     <vertx-maven-plugin.version>2.0.2</vertx-maven-plugin.version>
