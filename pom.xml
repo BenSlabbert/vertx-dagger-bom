@@ -28,7 +28,7 @@
     <maven.compiler.target>${java.version}</maven.compiler.target>
 
     <!--deps-->
-    <vertx.version>5.1.0</vertx.version>
+    <vertx.version>5.1.1</vertx.version>
     <junit.version>6.1.0</junit.version>
     <assertj.version>3.27.7</assertj.version>
     <lombok.version>1.18.46</lombok.version>
@@ -47,7 +47,7 @@
     <lombok-mapstruct-binding.version>0.2.0</lombok-mapstruct-binding.version>
     <auto-service.version>1.1.1</auto-service.version>
     <slf4j.version>2.0.18</slf4j.version>
-    <logback.version>1.5.33</logback.version>
+    <logback.version>1.5.34</logback.version>
     <hikari-cp.version>7.0.2</hikari-cp.version>
     <google-auto-value.version>1.11.1</google-auto-value.version>
     <guava.version>33.6.0-jre</guava.version>
@@ -84,7 +84,7 @@
     <flatten-maven-plugin.version>1.7.3</flatten-maven-plugin.version>
     <spotless.version>3.6.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.1</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.18.8</byte-buddy.version>
+    <byte-buddy.version>1.18.10</byte-buddy.version>
     <google-java-format.version>1.35.0</google-java-format.version>
     <maven-jxr-plugin.version>3.6.0</maven-jxr-plugin.version>
     <maven-site-plugin.version>3.22.0</maven-site-plugin.version>
