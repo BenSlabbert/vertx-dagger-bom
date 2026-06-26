@@ -37,7 +37,7 @@
     <rest-assured.version>6.0.0</rest-assured.version>
     <commons-codec.version>1.22.0</commons-codec.version>
     <testcontainers.version>2.0.5</testcontainers.version>
-    <dagger.version>2.59.2</dagger.version>
+    <dagger.version>2.60</dagger.version>
     <errorprone.version>2.50.0</errorprone.version>
     <commons-lang3.version>3.20.0</commons-lang3.version>
     <postgresql.version>42.7.11</postgresql.version>
@@ -47,7 +47,7 @@
     <lombok-mapstruct-binding.version>0.2.0</lombok-mapstruct-binding.version>
     <auto-service.version>1.1.1</auto-service.version>
     <slf4j.version>2.0.18</slf4j.version>
-    <logback.version>1.5.35</logback.version>
+    <logback.version>1.5.36</logback.version>
     <hikari-cp.version>7.1.0</hikari-cp.version>
     <google-auto-value.version>1.11.1</google-auto-value.version>
     <guava.version>33.6.0-jre</guava.version>
