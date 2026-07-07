@@ -37,10 +37,10 @@
     <rest-assured.version>6.0.0</rest-assured.version>
     <commons-codec.version>1.22.0</commons-codec.version>
     <testcontainers.version>2.0.5</testcontainers.version>
-    <dagger.version>2.60</dagger.version>
+    <dagger.version>2.60.1</dagger.version>
     <errorprone.version>2.50.0</errorprone.version>
     <commons-lang3.version>3.20.0</commons-lang3.version>
-    <postgresql.version>42.7.12</postgresql.version>
+    <postgresql.version>42.7.13</postgresql.version>
     <jooq.version>3.21.6</jooq.version>
     <scram.version>3.4</scram.version>
     <org.mapstruct.version>1.6.3</org.mapstruct.version>
@@ -55,7 +55,7 @@
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
     <flyway.version>12.10.0</flyway.version>
     <playwright.version>1.61.0</playwright.version>
-    <hibernate-validator.version>9.1.1.Final</hibernate-validator.version>
+    <hibernate-validator.version>9.1.2.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
     <expressly.version>6.0.0</expressly.version>
