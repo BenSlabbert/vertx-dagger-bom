@@ -85,7 +85,7 @@
     <spotless.version>3.9.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.1</build-helper-maven-plugin.version>
     <byte-buddy.version>1.18.11</byte-buddy.version>
-    <google-java-format.version>1.35.0</google-java-format.version>
+    <google-java-format.version>1.36.0</google-java-format.version>
     <maven-jxr-plugin.version>3.6.0</maven-jxr-plugin.version>
     <maven-site-plugin.version>3.22.0</maven-site-plugin.version>
   </properties>
