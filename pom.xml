@@ -35,7 +35,7 @@
     <mockito.version>5.23.0</mockito.version>
     <picocli.version>4.7.7</picocli.version>
     <rest-assured.version>6.0.1</rest-assured.version>
-    <commons-codec.version>1.22.0</commons-codec.version>
+    <commons-codec.version>1.22.1</commons-codec.version>
     <testcontainers.version>2.0.5</testcontainers.version>
     <dagger.version>2.60.1</dagger.version>
     <errorprone.version>2.50.0</errorprone.version>
@@ -53,7 +53,7 @@
     <guava.version>33.6.0-jre</guava.version>
     <jte.version>3.2.4</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>13.0.0</flyway.version>
+    <flyway.version>13.1.0</flyway.version>
     <playwright.version>1.61.0</playwright.version>
     <hibernate-validator.version>9.1.3.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
@@ -85,7 +85,7 @@
     <spotless.version>3.9.0</spotless.version>
     <build-helper-maven-plugin.version>3.6.1</build-helper-maven-plugin.version>
     <byte-buddy.version>1.18.11</byte-buddy.version>
-    <google-java-format.version>1.36.0</google-java-format.version>
+    <google-java-format.version>1.36.1</google-java-format.version>
     <maven-jxr-plugin.version>3.6.0</maven-jxr-plugin.version>
     <maven-site-plugin.version>3.22.0</maven-site-plugin.version>
   </properties>
