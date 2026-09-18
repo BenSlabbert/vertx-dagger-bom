@@ -54,7 +54,7 @@
     <jte.version>3.2.4</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
     <flyway.version>13.6.0</flyway.version>
-    <playwright.version>1.62.0</playwright.version>
+    <playwright.version>1.63.0</playwright.version>
     <hibernate-validator.version>9.1.3.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
@@ -84,7 +84,7 @@
     <flatten-maven-plugin.version>1.8.0</flatten-maven-plugin.version>
     <spotless.version>3.10.2</spotless.version>
     <build-helper-maven-plugin.version>3.6.2</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.18.13</byte-buddy.version>
+    <byte-buddy.version>1.18.14</byte-buddy.version>
     <google-java-format.version>1.36.1</google-java-format.version>
     <maven-jxr-plugin.version>3.6.0</maven-jxr-plugin.version>
     <maven-site-plugin.version>3.22.0</maven-site-plugin.version>
