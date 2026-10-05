@@ -47,13 +47,13 @@
     <lombok-mapstruct-binding.version>0.2.0</lombok-mapstruct-binding.version>
     <auto-service.version>1.1.1</auto-service.version>
     <slf4j.version>2.0.20</slf4j.version>
-    <logback.version>1.6.4</logback.version>
+    <logback.version>1.6.5</logback.version>
     <hikari-cp.version>7.1.0</hikari-cp.version>
     <google-auto-value.version>1.11.1</google-auto-value.version>
-    <guava.version>33.7.1-jre</guava.version>
+    <guava.version>33.7.2-jre</guava.version>
     <jte.version>3.2.4</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>13.8.0</flyway.version>
+    <flyway.version>13.9.0</flyway.version>
     <playwright.version>1.63.0</playwright.version>
     <hibernate-validator.version>9.1.4.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
@@ -85,7 +85,7 @@
     <spotless.version>3.10.3</spotless.version>
     <build-helper-maven-plugin.version>3.6.2</build-helper-maven-plugin.version>
     <byte-buddy.version>1.18.14</byte-buddy.version>
-    <google-java-format.version>1.36.1</google-java-format.version>
+    <google-java-format.version>1.37.0</google-java-format.version>
     <maven-jxr-plugin.version>3.6.0</maven-jxr-plugin.version>
     <maven-site-plugin.version>3.22.0</maven-site-plugin.version>
   </properties>
