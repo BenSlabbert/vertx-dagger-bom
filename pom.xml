@@ -53,16 +53,16 @@
     <guava.version>33.7.2-jre</guava.version>
     <jte.version>3.2.4</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>13.10.0</flyway.version>
+    <flyway.version>13.10.3</flyway.version>
     <playwright.version>1.63.0</playwright.version>
-    <hibernate-validator.version>9.1.4.Final</hibernate-validator.version>
+    <hibernate-validator.version>9.1.5.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
     <expressly.version>6.0.0</expressly.version>
-    <javapoet.version>0.20.0</javapoet.version>
+    <javapoet.version>0.21.0</javapoet.version>
 
     <!--plugins-->
-    <vertx-maven-plugin.version>2.1.0</vertx-maven-plugin.version>
+    <vertx-maven-plugin.version>2.2.0</vertx-maven-plugin.version>
     <maven-plugin-plugin.version>3.13.0</maven-plugin-plugin.version>
     <maven-site-plugin.version>3.22.0</maven-site-plugin.version>
     <exec-maven-plugin.version>3.6.4</exec-maven-plugin.version>
@@ -84,7 +84,7 @@
     <flatten-maven-plugin.version>1.8.0</flatten-maven-plugin.version>
     <spotless.version>3.10.4</spotless.version>
     <build-helper-maven-plugin.version>3.6.2</build-helper-maven-plugin.version>
-    <byte-buddy.version>1.18.14</byte-buddy.version>
+    <byte-buddy.version>1.18.15</byte-buddy.version>
     <google-java-format.version>1.37.0</google-java-format.version>
     <maven-jxr-plugin.version>3.6.0</maven-jxr-plugin.version>
     <maven-site-plugin.version>3.22.0</maven-site-plugin.version>
