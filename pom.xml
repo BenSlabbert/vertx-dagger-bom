@@ -34,7 +34,7 @@
     <lombok.version>1.18.48</lombok.version>
     <mockito.version>5.24.0</mockito.version>
     <picocli.version>4.7.7</picocli.version>
-    <rest-assured.version>6.1.0</rest-assured.version>
+    <rest-assured.version>6.2.0</rest-assured.version>
     <commons-codec.version>1.23.0</commons-codec.version>
     <testcontainers.version>2.0.5</testcontainers.version>
     <dagger.version>2.60.1</dagger.version>
