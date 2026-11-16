@@ -53,8 +53,8 @@
     <guava.version>33.8.0-jre</guava.version>
     <jte.version>3.2.5</jte.version>
     <commons-dbutils.version>1.8.1</commons-dbutils.version>
-    <flyway.version>13.12.1</flyway.version>
-    <playwright.version>1.64.0</playwright.version>
+    <flyway.version>13.12.2</flyway.version>
+    <playwright.version>1.65.0</playwright.version>
     <hibernate-validator.version>9.1.6.Final</hibernate-validator.version>
     <jakarta.validation-api.version>3.1.1</jakarta.validation-api.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
